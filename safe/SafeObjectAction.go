@@ -1,10 +1,10 @@
 package safe
 
 import (
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/msg"
+	"github.com/safawo/fast/mvc"
 	"strings"
-	"think/fast/comm"
-	"think/fast/msg"
-	"think/fast/mvc"
 )
 
 type CreateSafeObjectAction struct {

@@ -1,9 +1,9 @@
 package fast
 
 import (
-	"think/fast/mvc"
+	"github.com/safawo/fast/mvc"
 )
 
 func initControl() {
-	mvc.Router("/think/fast/msg/loadList", &LoadMsgListAction{})
+	mvc.Router("/github.com/safawo/fast/msg/loadList", &LoadMsgListAction{})
 }

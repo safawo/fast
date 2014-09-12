@@ -1,8 +1,8 @@
 package safe
 
 import (
-	"think/fast/ds"
-	"think/fast/utils"
+	"github.com/safawo/fast/ds"
+	"github.com/safawo/fast/utils"
 )
 
 type FastSysParaAgent struct {

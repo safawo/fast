@@ -1,11 +1,11 @@
 package safe
 
 import (
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/ds"
+	"github.com/safawo/fast/mvc"
+	"github.com/safawo/fast/utils"
 	"strings"
-	"think/fast/comm"
-	"think/fast/ds"
-	"think/fast/mvc"
-	"think/fast/utils"
 )
 
 type QueryUserAction struct {

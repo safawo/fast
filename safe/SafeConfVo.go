@@ -1,7 +1,7 @@
 package safe
 
 import (
-	"think/fast/utils"
+	"github.com/safawo/fast/utils"
 )
 
 const (

@@ -1,9 +1,9 @@
 package utils
 
 import (
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/ds"
 	"strings"
-	"think/fast/comm"
-	"think/fast/ds"
 )
 
 type FastSysParaInterface interface {

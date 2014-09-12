@@ -1,12 +1,12 @@
 package safe
 
 import (
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/msg"
+	"github.com/safawo/fast/mvc"
+	"github.com/safawo/fast/utils"
 	"os"
 	"strings"
-	"think/fast/comm"
-	"think/fast/msg"
-	"think/fast/mvc"
-	"think/fast/utils"
 )
 
 type LoginAction struct {

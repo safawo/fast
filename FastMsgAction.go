@@ -1,8 +1,8 @@
 package fast
 
 import (
-	"think/fast/msg"
-	"think/fast/mvc"
+	"github.com/safawo/fast/msg"
+	"github.com/safawo/fast/mvc"
 )
 
 type LoadMsgListAction struct {

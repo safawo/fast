@@ -1,9 +1,9 @@
 package safe
 
 import (
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/mvc"
 	"strings"
-	"think/fast/comm"
-	"think/fast/mvc"
 )
 
 const (

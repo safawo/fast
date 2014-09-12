@@ -3,9 +3,9 @@ package safe
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/utils"
 	"os"
-	"think/fast/comm"
-	"think/fast/utils"
 )
 
 func buildLicense() {

@@ -3,9 +3,9 @@ package safe
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/utils"
 	"strings"
-	"think/fast/comm"
-	"think/fast/utils"
 )
 
 type LicenseInterface interface {

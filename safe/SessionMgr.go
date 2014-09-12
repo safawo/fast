@@ -2,12 +2,12 @@ package safe
 
 import (
 	"fmt"
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/ds"
+	"github.com/safawo/fast/msg"
+	"github.com/safawo/fast/utils"
 	"net/http"
 	"strings"
-	"think/fast/comm"
-	"think/fast/ds"
-	"think/fast/msg"
-	"think/fast/utils"
 )
 
 type SessionMgrInterface interface {

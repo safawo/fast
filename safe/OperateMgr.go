@@ -2,8 +2,8 @@ package safe
 
 import (
 	"fmt"
-	"think/fast/ds"
-	"think/fast/utils"
+	"github.com/safawo/fast/ds"
+	"github.com/safawo/fast/utils"
 )
 
 type OperateMgrInterface interface {

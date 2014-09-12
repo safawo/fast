@@ -1,9 +1,9 @@
 package backup
 
 import (
-	"think/fast/comm"
-	"think/fast/mvc"
-	"think/fast/safe"
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/mvc"
+	"github.com/safawo/fast/safe"
 )
 
 type NotifyBackupAction struct {

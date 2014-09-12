@@ -1,9 +1,9 @@
 package mvc
 
 import (
-	"think/fast/comm"
-	"think/fast/msg"
-	"think/fast/utils"
+	"github.com/safawo/fast/comm"
+	"github.com/safawo/fast/msg"
+	"github.com/safawo/fast/utils"
 )
 
 type FastRequestInterface interface {

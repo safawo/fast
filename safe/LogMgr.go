@@ -3,12 +3,12 @@ package safe
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/safawo/fast/ds"
+	"github.com/safawo/fast/mvc"
+	"github.com/safawo/fast/utils"
 	"io/ioutil"
 	"os"
 	"strings"
-	"think/fast/ds"
-	"think/fast/mvc"
-	"think/fast/utils"
 )
 
 func WriteLog(rspMsg mvc.FastResponseInterface, object, content string) {

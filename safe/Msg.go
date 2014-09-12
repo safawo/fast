@@ -1,7 +1,7 @@
 package safe
 
 import (
-	"think/fast/msg"
+	"github.com/safawo/fast/msg"
 )
 
 const (

@@ -1,8 +1,8 @@
 package safe
 
 import (
+	"github.com/safawo/fast/comm"
 	"strings"
-	"think/fast/comm"
 )
 
 const (

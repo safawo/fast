@@ -1,7 +1,7 @@
 package safe
 
 import (
-	"think/fast/mvc"
+	"github.com/safawo/fast/mvc"
 )
 
 type SecLogInterface interface {

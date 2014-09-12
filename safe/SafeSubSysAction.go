@@ -1,9 +1,9 @@
 package safe
 
 import (
-	"think/fast/ds"
-	"think/fast/mvc"
-	"think/fast/utils"
+	"github.com/safawo/fast/ds"
+	"github.com/safawo/fast/mvc"
+	"github.com/safawo/fast/utils"
 )
 
 type QuerySafeSubSysAction struct {

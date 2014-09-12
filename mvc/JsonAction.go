@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/astaxie/beego"
+	"github.com/safawo/fast/msg"
+	"github.com/safawo/fast/utils"
 	"io/ioutil"
 	"net/http"
 	"strconv"
-	"think/fast/msg"
-	"think/fast/utils"
 )
 
 func Router(path string, action JsonActionInterface) {
